@@ -1,3 +1,19 @@
+
+  1) Banking Integration
+  2) Yodlee Overview
+     2.1) Services
+     2.2) Clients (Mint?)
+     2.3) APIs
+  3) Banking Gateway (my API)
+     3.1) Architecture
+     3.2) Services
+  4) Show Banking Gateway
+     4.1) Consult accounts
+     4.2) Aggregate accounts with Yodlee FastLink for Aggregation
+     4.3) Consult new accounts
+  5) Show Code
+  
+------------------------------------------------------------------------------------------------------------------------
 https://developer.yodlee.com/api-dashboard
 https://developer.yodlee.com/API_Resources/Integration_Guide
 https://developer.yodlee.com/Account_Verification_EAP/Integration_Guide
@@ -69,22 +85,6 @@ https://developer.yodlee.com/Aggregation_API/Aggregation_Services_Guide/Sample_D
 https://yieapstage.api.yodlee.com/ysl
 https://yieapstage.api.yodlee.com/ysl/restserver/v1/cobrand/login
 https://yieapstage.api.yodlee.com/ysl/restserver/v1/providers/
-
-------------------------------------------------------------------------------------------------------------------------
-
-  1) Banking Integration
-  2) Yodlee Overview
-     2.1) Services
-     2.2) Clients (Mint?)
-     2.3) APIs
-  3) Banking Gateway (my API)
-     3.1) Architecture
-     3.2) Services
-  4) Show Banking Gateway
-     4.1) Consult accounts
-     4.2) Aggregate accounts with Yodlee FastLink for Aggregation
-     4.3) Consult new accounts
-  5) Show Code
 
 ------------------------------------------------------------------------------------------------------------------------
 
